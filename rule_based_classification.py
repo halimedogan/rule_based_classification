@@ -1,5 +1,5 @@
 ### HELLOOO FIRST PROJECT ###
-# Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama #
+### Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama ###
 ### GOREV-1 ###
 #persona.csv dosyasını okutunuz ve veri seti ile ilgili genel bilgileri gösteriniz.
 import pandas as pd
