@@ -1,7 +1,9 @@
 Kural Tabanlı Sınıflandırma ile İş Problemi
 
-İ Ş    P R O B L E M İ
 
+![Uploading pexels-freestocksorg-58639 (1).jpg…]()
+
+İ Ş    P R O B L E M İ
 Bir oyun şirketi müşterilerinin bazı özelliklerini kullanarak
 seviye tabanlı (level based) yeni müşteri tanımları
 (persona) oluşturmak ve bu yeni müşteri tanımlarına
