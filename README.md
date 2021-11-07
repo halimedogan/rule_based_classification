@@ -1,19 +1,6 @@
-Kural Tabanlı Sınıflandırma ile İş Problemi
+_________________________________________________
+# BUSINESS PROBLEM WITH RULE BASED CLASSIFICATION
+_________________________________________________
 
+![pexels-freestocksorg-58639 (1)](https://user-images.githubusercontent.com/74882773/140663958-5c57488e-8923-4bad-86ff-8790b635ceae.jpg)
 
-![Uploading pexels-freestocksorg-58639 (1).jpg…]()
-
-İ Ş    P R O B L E M İ
-Bir oyun şirketi müşterilerinin bazı özelliklerini kullanarak
-seviye tabanlı (level based) yeni müşteri tanımları
-(persona) oluşturmak ve bu yeni müşteri tanımlarına
-göre segmentler oluşturup bu segmentlere göre yeni
-gelebilecek müşterilerin şirkete ortalama ne kadar
-kazandırabileceğini tahmin etmek istemektedir.
-
-
-Örneğin:
-Türkiye’den IOS kullanıcısı olan 25 yaşındaki bir erkek 
-kullanıcının ortalama ne kadar kazandırabileceği 
-belirlenmek isteniyor.
-Potansiyel Müşteri Getirisi Hesaplama
