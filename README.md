@@ -23,7 +23,7 @@ _________________________________________________
 
 PRICE – Müşterinin harcama tutarı
 
-Değişkenler
+
 
 SOURCE – Müşterinin bağlandığı cihaz türü
 
